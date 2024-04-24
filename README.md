@@ -5,3 +5,6 @@ JavaScript Developer, mostly working with Vue.js
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/jkl3848?theme=dark)](https://leetcode.com/jkl3848)
+
+
+Currently making a terribly optimized game in JS. Check it out [here](https://game.jclamoreaux.com/)
